@@ -1,0 +1,106 @@
+§<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <!-- Setting the viewport to make your website look good on all devices -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+    <title>Personal Cv</title>
+    <link rel="stylesheet" href="style.css"/>
+	
+	
+</head>
+
+<body
+Background ="brown.jpeg" >
+  <!--table part-->
+    <table border="10" width="1000" bgcolor="#EDD2B9">
+   <tr> 
+       <td height="75" rowspan="2"><div class="zoom">
+    
+       <height="25"><font size="6"><font face="Tahoma"><br> <br> <p style="color:#46290F">Caitlin Henderson </p></strong></font>
+<font size="3"><font face="Tahoma"> <p style ="text-align:centre;",p style="color:#46290F">Bachelor of Science Degree</p>
+ </td>
+   </tr>
+  
+    <td height="25" rowspan="1" colspan="3">
+        <p align="justify"></p> 
+		<ul>
+            <font size="3"></font><strong><p style="color:#D79252">CONTACT INFO</strong></font>
+            <li> <p style="color:#936234">phone: 0861005853 </li>
+            <li> <p style="color:#936234">mail: Caitlin.henderson.2018@mumail.ie</li>
+            <li> <p style="color:#936234">website:<a href="https://www.maynoothuniversity.ie/">Maynooth University</a>  </li>
+            <li> <p style="color:#936234">Hometown: Dublin,Blanchardstown</li>
+           
+            </ul> </td>  </font> </td>
+  </tr>
+
+  <td height="25" width="600" colspan="1" ><font size="2">
+        <strong> <h1 style="color:#D79252", h1 style ="text-align:centre;">Volunteer Experiences/Leadership</strong </p>
+<h3><p style="color:#936234">I can motivate and direct others in order to achieve common objectives. I have also learned with many of these situations the ability to solve problems and conflicts. I am also good at communicating with others as for example I was nominated by my peers to give our graduation speech. I was also the main person in charge of our school breakfast morning in 3rd year which raised money for the hospice.
+             </td> 
+
+    <td height="25" width="600" colspan="1" ><font size="2">
+        <strong><h2><p style="color:#D79252">Experiences</h2></strong>
+
+        <h4><p style="color:#46290F", p style ="text-align:centre;"> Lab work in both Biology and Chemistry</h4>
+        <p align="justify"><p style="color:#936234">I have gained a lot of useful lab skills, as simple as using a microscope and examining a slide up to analysing mammalian tissue culture and determining between dead and alive cells. I have four years of experience of this and I have achieved high grades in my lab reports. .</p>
+
+         <h4><p style="color:#46290F"> Schuh  </h4>
+         <p align="justify"><p style="color:#936234">Throughout college I have maintained at keeping a part time job, I have also experience as being a supervisor as I do on and off shifts for the store when they are stuck for help. This experience has made me understand the role of working as a team and guiding my colleagues with tasks. I manage the store and the staff by constantly being alert and very vidulent and I feel as my experience with college labs have played a role in this authority as its helped shape these skills for me.</p></font> </td> 
+        
+    </tr>
+
+            <tr>  <td height="25" width="400" colspan="1" ><font size="3">
+                <ul>
+                <font size="3"></font><strong><p style="color:#D79252">Skills</strong></font> <br/>
+                <li><p style="color:#936234">Communication</li>
+                <li><p style="color:#936234">Planning and Research</li>
+                <li><p style="color:#936234">Self Management</li>
+                <li><p style="color:#936234">Java, CCS and HTML experienced</li>
+             
+                </ul> </font> 
+    
+                <ul>
+                <font size="3"></font><strong><p style="color:#D79252">Awards</strong></font><br/>
+
+                <li><p style="color:#936234">Cross country 1</li>
+                <li><p style="color:#936234">Womens mini marathon 2</li>
+                <li><p style="color:#936234">Subject award in Biology and Technical Graphics 3</li>
+                <li> <p style="color:#936234">Attendance award</li>
+              
+
+
+                </ul> </font> </td>
+
+
+   <td height="25" width="600" colspan="1" ><font size="2">
+    <strong><h2><p style="color:#D79252">Projects</h2></strong>
+
+    <h3><p style="color:#46290F">  Thesis </h3>
+    <p align="justify"><p style="color:#936234"> My thesis that I had chose was "How Plants Detect Temperatue Change". This topic appealed to me as I have such a passion for preserving the environment and protecting the worlds natural beauty, animals and plants hold a special place in my heart. It is one of the many topics that pushes me to want to do well, as I am young and I have the desire to want to make a change. I would love to be out in the field of research and conservative work and I hope to do some work over in Asia as I have seen they have many animal and environmental business' and It is also a great chance for some experience and a great feel of culture..</p>
+
+     <h3> <p style="color:#46290F"> End User program </h3>
+     <p align="justify"><p style="color:#936234">The End User Program helped my understanding of coding, as I thought it was as simple as just typing in what you wanted the system to do however there is an exceptional amount of programs and shortcuts that one needs to learn. I left this module with a better understanding go the overall system and how it works and I would feel confident to do any task related to this topic.</p></font> </td> 
+         
+    </tr>
+<tr>
+<table>
+<table border="10" width="1000" bgcolor="#EDD2B9">
+   <tr> 
+       <td height="75" rowspan="1"
+    <font face="Tahoma"> <p style="text-align:center;",p style="color:#46290F">Age: 21 </p> </td>
+    <td height="75" rowspan="1">
+<font face="Tahoma"> <p style="text-align:center;",p style="color:#46290F"> Gender: Female</p></td>
+    <td height="75" rowspan="1">
+<font face="Tahoma"><p style="text-align:center;",p style="color:#46290F"> Nationality: Irish
+</td>
+
+  </tr>
+</table>
+
+
+    </table> <br/><br/><br/><br/><br/>
+
+</body>
+</html>
